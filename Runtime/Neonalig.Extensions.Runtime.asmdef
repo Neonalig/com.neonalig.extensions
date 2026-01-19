@@ -1,0 +1,16 @@
+﻿{
+    "name": "Neonalig.Extensions.Runtime",
+    "rootNamespace": "Neonalig.Extensions",
+    "references": [
+        "Neonalig.Hashing.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+﻿{
+  "name": "com.neonalig.extensions",
+  "version": "1.0.0",
+  "displayName": "Neonalig Extensions",
+  "description": "Extension methods for Unity types including Color utilities, Component extensions, and more.",
+  "unity": "2021.3",
+  "keywords": ["extensions", "utilities", "helpers"],
+  "author": {
+    "name": "Neonalig"
+  },
+  "dependencies": {
+    "com.neonalig.hashing": "1.0.0"
+  }
+}
